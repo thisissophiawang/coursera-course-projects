@@ -2,7 +2,19 @@ CircleNet (Job Searching Analyzer)
 Project Manager: Sophia Wang 
 
 1. Project Goal
-The goal of the project is to help CircleNet to develop a job search analysis tool in the form of a mobile application for both Android and iOS, using Flutter as the programming language. The application will be integrated into a social networking platform.
+
+The goal of the project is to help CircleNet to develop a job search analysis tool 
+in the form of a mobile application for both Android and iOS, using Flutter as the 
+programming language. The application will be integrated into a social networking platform.
 
 2. Problem/Opportunity Definition
-International students face difficulties in finding job opportunities due to differences in job markets, cultures, and language barriers. Although there are mobile software options available in the market, they are either expensive training programs offered by organizations or free software that lacks the specific features required by international students. To address these challenges and provide a solution to the underserved population, CircleNet aims to develop job search analytic tools that cater to the needs of international students. The goal is to make the application accessible and affordable to this population by ensuring compatibility with both Android and Apple iOS devices. This presents an opportunity for CircleNet to fill the gap in the market and provide a valuable resource for international students in their job search.
+
+International students face difficulties in finding job opportunities due to differences
+in job markets, cultures, and language barriers. Although there are mobile software options
+available in the market, they are either expensive training programs offered by organizations
+or free software that lacks the specific features required by international students. 
+To address these challenges and provide a solution to the underserved population, CircleNet
+aims to develop job search analytic tools that cater to the needs of international students. 
+The goal is to make the application accessible and affordable to this population by ensuring
+compatibility with both Android and Apple iOS devices. This presents an opportunity for CircleNet
+to fill the gap in the market and provide a valuable resource for international students in their job search.
