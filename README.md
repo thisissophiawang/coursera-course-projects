@@ -5,5 +5,6 @@
 - 📫 How to reach me xw1921@nyu.edu
 
 
-# Circlenet-Capstone Project 
-
+# CircleNet Networking Application-Capstone Project 
+under the NYU capstone file
+# Goal of the project
