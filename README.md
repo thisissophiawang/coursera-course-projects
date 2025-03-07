@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @thisissophiawang
-- 📫 Connect with me www.linkedin.com/in/xinyiwangsophia/
-- 📧 How to reach me xw1921@nyu.edu
+
 
 
 # CircleNet Networking Application-Capstone Project 
