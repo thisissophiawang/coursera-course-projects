@@ -2,7 +2,7 @@
 
 
 # CircleNet Networking Application-Capstone Project 
-under the NYU capstone file
+under the NYU capstone file (https://github.com/thisissophiawang/coursera-course-projects/tree/main/NYU%20capstone)
 # Goal of the project
 The primary objective of this project is to assist CircleNet in developing a job search analysis tool as a mobile application that can run on both Android and iOS platforms. We are utilizing Flutter as the programming language to create this application and will integrate it with CircleNet's social networking platform. Our aim is to develop a user-friendly mobile application that can help Chinese students studying in the USA find suitable employment opportunities. With the increasing number of Chinese students studying in the USA, there is a growing demand for job-seeking tools that can help them navigate the job market more effectively. The job search analysis tool developed in this project can be a promising solution to address this demand. To complement the mobile application, we will also create an official website of the product using Wix to provide an online presence for the application, and respond to the flow of customers to the app store (Apple Store/Google Play Store) to download the app. The website will contain all the necessary information about the application, including its features, pricing, and other relevant details.
 
